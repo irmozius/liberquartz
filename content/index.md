@@ -1,10 +1,16 @@
 ---
-title: Welcome to Quartz
+title: LiberCat
 ---
 
-This is a blank Quartz installation.
-OIIIII
-Check out [[here]]
+# Welcome!
 
+Welcome to the LiberCat Wiki.
 
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+### [[Members]]
+
+### [[Games]]
+
+**Active**:
+[[Coke Adventure]]
+
+### [[Values]]
